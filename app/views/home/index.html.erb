@@ -1,0 +1,6 @@
+<h1>h1</h1>
+<% if current_user == nil%>
+  <%= link_to 'Sign In', '/users/auth/github' %>
+<% else %>
+  You are signed in, can do stuff now.
+<% end %>

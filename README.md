@@ -1,12 +1,13 @@
 ##TODO:
 
 ###Finish Readme
-<p>
+
 ```
 /users/sign_up
 /users/sign_out
 /users/sign_in
 ```
+<p>
 ^ will work out of the box. You need to configure your github keys for its
 link on the sign in page to work. Adding different oauth providers
 is just a few lines.

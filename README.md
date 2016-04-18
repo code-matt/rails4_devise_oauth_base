@@ -2,15 +2,10 @@
 
 ###Finish Readme
 <p>
-```
-/users/sign_up
-```
-```
-/users/sign_out
-```
-```
-/users/sign_in
-```
+
+'/users/sign_up'
+'/users/sign_out'
+'/users/sign_in'
 
 ^ will work out of the box. You need to configure your github keys mentioned
 below or add different providers to oauth. Its pretty simple adding them though.
